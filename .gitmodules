@@ -1,6 +1,0 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/cctdaniel/react-chat-app/client
-[submodule "server"]
-	path = server
-	url = https://github.com/cctdaniel/react-chat-app/server
